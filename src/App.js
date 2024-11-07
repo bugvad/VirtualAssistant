@@ -9,7 +9,7 @@ import TodoForm from "./pages/Todos/TodoForm";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       {/* <SpeechContext.Provider value={{ state, setState, isBool, etc }}> */}
       <Switch>
         <Route path="/" exact component={VirtualAssistant} />
