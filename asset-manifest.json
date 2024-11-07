@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/VirtualAssistant/static/css/main.c913d46b.chunk.css",
+    "main.js": "/VirtualAssistant/static/js/main.ac028bb9.chunk.js",
+    "main.js.map": "/VirtualAssistant/static/js/main.ac028bb9.chunk.js.map",
+    "runtime-main.js": "/VirtualAssistant/static/js/runtime-main.0f71c585.js",
+    "runtime-main.js.map": "/VirtualAssistant/static/js/runtime-main.0f71c585.js.map",
+    "static/js/2.0787eb6d.chunk.js": "/VirtualAssistant/static/js/2.0787eb6d.chunk.js",
+    "static/js/2.0787eb6d.chunk.js.map": "/VirtualAssistant/static/js/2.0787eb6d.chunk.js.map",
+    "static/js/3.60f85ae4.chunk.js": "/VirtualAssistant/static/js/3.60f85ae4.chunk.js",
+    "static/js/3.60f85ae4.chunk.js.map": "/VirtualAssistant/static/js/3.60f85ae4.chunk.js.map",
+    "index.html": "/VirtualAssistant/index.html",
+    "static/css/main.c913d46b.chunk.css.map": "/VirtualAssistant/static/css/main.c913d46b.chunk.css.map",
+    "static/js/2.0787eb6d.chunk.js.LICENSE.txt": "/VirtualAssistant/static/js/2.0787eb6d.chunk.js.LICENSE.txt",
+    "static/js/3.60f85ae4.chunk.js.LICENSE.txt": "/VirtualAssistant/static/js/3.60f85ae4.chunk.js.LICENSE.txt",
+    "static/media/Bells10.50986450.mp3": "/VirtualAssistant/static/media/Bells10.50986450.mp3",
+    "static/media/Bells11.ef0c518e.mp3": "/VirtualAssistant/static/media/Bells11.ef0c518e.mp3",
+    "static/media/Mech-Drone-12.c37e5b13.mp3": "/VirtualAssistant/static/media/Mech-Drone-12.c37e5b13.mp3",
+    "static/media/PowerDown7.a72d43f4.mp3": "/VirtualAssistant/static/media/PowerDown7.a72d43f4.mp3",
+    "static/media/PowerUp18.88d3c8f9.mp3": "/VirtualAssistant/static/media/PowerUp18.88d3c8f9.mp3",
+    "static/media/SynthChime11.52009352.mp3": "/VirtualAssistant/static/media/SynthChime11.52009352.mp3",
+    "static/media/SynthChime8.3e1c743f.mp3": "/VirtualAssistant/static/media/SynthChime8.3e1c743f.mp3",
+    "static/media/SynthChime9.1b200687.mp3": "/VirtualAssistant/static/media/SynthChime9.1b200687.mp3",
+    "static/media/UI_Quirky7.d17882b8.mp3": "/VirtualAssistant/static/media/UI_Quirky7.d17882b8.mp3",
+    "static/media/UI_Quirky8.190f6fab.mp3": "/VirtualAssistant/static/media/UI_Quirky8.190f6fab.mp3",
+    "static/media/VirtualAssistant.css": "/VirtualAssistant/static/media/bitmap.b9816821.png",
+    "static/media/heard.3997879d.mp3": "/VirtualAssistant/static/media/heard.3997879d.mp3",
+    "static/media/hilo_sparkle.c06427a5.mp3": "/VirtualAssistant/static/media/hilo_sparkle.c06427a5.mp3",
+    "static/media/lowTuTone.fa6e4839.mp3": "/VirtualAssistant/static/media/lowTuTone.fa6e4839.mp3",
+    "static/media/mic_off.efc866fc.png": "/VirtualAssistant/static/media/mic_off.efc866fc.png",
+    "static/media/mic_on.ccc2e903.png": "/VirtualAssistant/static/media/mic_on.ccc2e903.png",
+    "static/media/sprinkle.6608214d.mp3": "/VirtualAssistant/static/media/sprinkle.6608214d.mp3",
+    "static/media/timer.3583f40d.mp3": "/VirtualAssistant/static/media/timer.3583f40d.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f71c585.js",
+    "static/js/2.0787eb6d.chunk.js",
+    "static/css/main.c913d46b.chunk.css",
+    "static/js/main.ac028bb9.chunk.js"
+  ]
+}
