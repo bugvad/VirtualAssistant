@@ -1,6 +1,7 @@
 {
   "name": "virtualassistant",
   "version": "0.0.1",
+  "homepage": "https://bugvad.github.io/VirtualAssistant",
   "description": "Virtual Assistant uses the react-speech-recognition and react-speech-kit hooks to utilize the Web Speech API for Speech Recognition and Voice Synthesis.",
   "main": "server.js",
   "author": "Kristen Prescott <prescottdarling@gmail.com>",
@@ -27,6 +28,8 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -49,5 +52,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
   }
 }
